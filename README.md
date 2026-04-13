@@ -1,7 +1,7 @@
 # 🌿 Kovai Lakshmi Wellness Centre
 
 <p align="center">
-  <img src="(https://github.com/GokulakrishnanMuthan/Kovai_Lakshmi_Wellness_Centre/blob/main/kovailaskhmiwellnesscenter.netlify.app_.png)" alt="Kovai Lakshmi Wellness Centre Website Preview" width="100%" />
+  <img src="https://github.com/GokulakrishnanMuthan/Kovai_Lakshmi_Wellness_Centre/blob/main/kovailaskhmiwellnesscenter.netlify.app_.png" alt="Kovai Lakshmi Wellness Centre Website Preview" width="100%" />
 </p>
 
 ---
@@ -97,7 +97,7 @@ cd Kovai_Lakshmi_Wellness_Centre
 
 ## 🌐 Live Website
 
-👉 [View Live Site](https://your-live-website-link.com)
+👉 [View Live Site](https://kovailaskhmiwellnesscenter.netlify.app/)
 
 ---
 
@@ -129,7 +129,7 @@ Coimbatore, Tamil Nadu, India
 
 ### 🖥 Desktop View
 
-![Desktop](screenshot.png)
+![Desktop](https://github.com/GokulakrishnanMuthan/Kovai_Lakshmi_Wellness_Centre/blob/main/kovailaskhmiwellnesscenter.netlify.app_.png)
 
 ---
 
