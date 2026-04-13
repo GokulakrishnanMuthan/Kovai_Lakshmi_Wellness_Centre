@@ -1,7 +1,7 @@
 # 🌿 Kovai Lakshmi Wellness Centre
 
 <p align="center">
-  <img src="screenshot.png" alt="Kovai Lakshmi Wellness Centre Website Preview" width="100%" />
+  <img src="(https://github.com/GokulakrishnanMuthan/Kovai_Lakshmi_Wellness_Centre/blob/main/kovailaskhmiwellnesscenter.netlify.app_.png)" alt="Kovai Lakshmi Wellness Centre Website Preview" width="100%" />
 </p>
 
 ---
