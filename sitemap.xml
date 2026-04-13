@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Home -->
+  <url>
+    <loc>https://kovailakshmiwellnesscentre.com/</loc>
+    <lastmod>2026-04-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ta" href="https://kovailakshmiwellnesscentre.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://kovailakshmiwellnesscentre.com/"/>
+  </url>
+
+  <!-- Services -->
+  <url>
+    <loc>https://kovailakshmiwellnesscentre.com/#services</loc>
+    <lastmod>2026-04-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Specialty Treatments -->
+  <url>
+    <loc>https://kovailakshmiwellnesscentre.com/#specialty</loc>
+    <lastmod>2026-04-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Contact -->
+  <url>
+    <loc>https://kovailakshmiwellnesscentre.com/#contact</loc>
+    <lastmod>2026-04-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- SEO Guide -->
+  <url>
+    <loc>https://kovailakshmiwellnesscentre.com/seo-guide.html</loc>
+    <lastmod>2026-04-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+</urlset>
